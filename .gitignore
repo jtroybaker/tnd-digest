@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Others
+/tnd_digest/tnd_digest/credentials.py
+/.vscode
